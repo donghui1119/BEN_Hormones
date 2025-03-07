@@ -13,9 +13,7 @@ This project investigated the relationships among resting-state brain entropy (B
 The manuscript of this project is currently undergoing peer review, and the revised version has been resubmitted for further evaluation. 
 
 
-Regarding data accessibility, we have made all project files publicly available on the Open Science Framework (OSF). However, an unexpected issue arose when I attempted to edit the project description in detail from another project, my account was abruptly suspended without prior notice or apparent justification. The suspension notification from email indicated that "your account on the Open Science Framework has been flagged as spam and disabled."
-
-I am actively engaged in communications with OSF support to resolve this matter. Should the issue remain unresolved or the outcome prove unsatisfactory, I intend to discontinue utilizing this platform and will subsequently transfer all relevant research materials to GitHub for improved accessibility and long-term preservation.
+Considering reproducibility and to facilitate further investigations in related research areas, all project files will be publicly available on the Open Science Framework (OSF) upon publication of this work.
 
 
 

@@ -1,4 +1,4 @@
-# The Relationships of Resting-state Brain Entropy (BEN), Ovarian Hormones and Behavioral Inhibition and Activation Systems (BIS/BAS)
+# The Relationships of Resting-state Brain Entropy (BEN), Ovarian Hormones, and Behavioral Inhibition and Activation Systems (BIS/BAS)
 
 
 This project investigated the relationships among resting-state brain entropy (BEN), ovarian hormones, and the Behavioral Inhibition and Activation Systems (BIS/BAS). Our key findings are as follows:
@@ -10,10 +10,25 @@ This project investigated the relationships among resting-state brain entropy (B
 3. The inhibitory effect of PROG on impulsivity appears to be mediated through the enhancement of executive control functions. This neuroregulatory mechanism is achieved by improving temporal coherence (reflected by lower BEN) of neural activity, thereby facilitating temporal synchronization (indicated by higher functional connectivity) within the left DLPFC.
 
 
-The manuscript of this project is currently undergoing peer review, and the revised version has been resubmitted for further evaluation. 
+
+This work has recently been published in NeuroImage (https://doi.org/10.1016/j.neuroimage.2025.121226). The raw data can be obtained from OpenNeuro ds003114 (https://openneuro.org/datasets/ds003114/versions/1.0.0), and the derived BEN maps and statistical results are available at OSF (https://osf.io/9zs23/).
 
 
-Considering reproducibility and to facilitate further investigations in related research areas, all project files will be publicly available on the Open Science Framework (OSF) upon publication of this work.
+Related publications for this open dataset:
+
+Wang, J. X., Zhuang, J. Y., Fu, L., Lei, Q., Fan, M., & Zhang, W. (2020). How ovarian hormones influence the behavioral activation and inhibition system through the dopamine pathway. PLoS One, 15(8), e0237032.
+
+
+If this work is helpful to your research, please cite it as:
+
+Song, D., & Wang, Z. (2025). The relationships of resting-state brain entropy (BEN), ovarian hormones and behavioral inhibition and activation systems (BIS/BAS). NeuroImage, 312, 121226.
+
+
+
+
+
+
+
 
 
 
